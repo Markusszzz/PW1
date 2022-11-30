@@ -1,0 +1,43 @@
+body{
+    background-color: #87CEEB;
+    font-family: Century Gothic, Verdana, Arial;
+}
+
+h1{
+    background-color:#FFFAFA;
+    text-align: center;
+    color: #00008B;
+    padding-top: 10px;
+    height: 80px;
+    font-size: 40px;
+}
+
+a{
+    font-size: 20px;
+    color:#000000;
+    text-decoration:none ;
+    text-transform: uppercase ;
+    
+}
+
+p{
+    text-align: center;
+    color: #000000;
+}
+
+table{
+    background-color: #FFFAFA;
+    color: #00008B;
+    border: 15px ;
+    
+}
+
+img{
+    width: 300px;
+
+}
+
+a:hover{
+    color: #FFFAFA;
+    background-color: #00008B;
+}
